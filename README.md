@@ -1,5 +1,5 @@
-# ecommerce-MERN
-with admin panel
+# ecommerce-MERN with admin panel
+
 cd backend -> npm install
 cd front -> npm start
  
